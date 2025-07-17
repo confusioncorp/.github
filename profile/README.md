@@ -1,9 +1,7 @@
 
 <p align="center">
-  <span style="font-size:32px;">CONFUSION CORP</span>
+  <img src="/assets/confusioncorp.png"></img>
   <br>✦ (unprofessional) development ✦
-  <br>
-  <a href="https://discord.gg/confusioncorp">discord</a>
 </p>
 <h2>Projects</h2>
 
